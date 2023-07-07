@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server2",
+      "author": "typicode3",
+      "email": "asdads@gamail.com"
+    },
+    {
+      "title": "bb",
+      "author": "bbbb",
+      "id": 3
+    },
+    {
+      "title": "dsasd",
+      "author": "asdsd",
+      "id": 4,
+      "email": "asdfsd@asf.com"
+    },
+    {
+      "title": "",
+      "author": "",
+      "email": "",
+      "id": 5
+    },
+    {
+      "title": "",
+      "author": "",
+      "email": "",
+      "id": 6
+    },
+    {
+      "title": "asda",
+      "author": "asdads",
+      "email": "asdasd@gmail.com",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
